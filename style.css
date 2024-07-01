@@ -8,6 +8,7 @@
 }
 
 main {
+    background: linear-gradient(287.56deg, #e5c2fb 0%, #807ef9 100%);
     padding: 30px;
     user-select: none;
 }@import url("https://fonts.googleapis.com/css2?family=Inter:wght@100..900&display=swap");
@@ -27,7 +28,7 @@ main {
 header > span {
     font-size: 0.85rem;
     font-weight: 700;
-    color: #6b778c;
+    color: #010101;
     letter-spacing: 0.02rem;
 }
 
@@ -46,7 +47,7 @@ header > h1 {
 
 .column {
     width: 100%;
-    background-color: #f4f5f7;
+    background: linear-gradient(287.56deg, #ce80ff 0%, #7f7dff 100%);
     height: 100dvh;
     border-radius: 8px;
 }
@@ -67,14 +68,14 @@ header > h1 {
 .card {
     width: 100%;
     min-height: 70px;
-    background-color: #fff;
+    background: linear-gradient(287.56deg, #e5c2fb 0%, #9d9cf0 100%);
     border-radius: 5px;
-    border: 1px solid #dfe1e6;
-    box-shadow: 0 2px 2px #dfe1e6;
+    border: 1px solid #97b3f9;
+    box-shadow: 0 2px 2px #000000;
     padding: 12px 14px;
     font-size: 0.9rem;
     font-weight: 500;
-    color: #4d5c76;
+    color: #000000;
     margin-bottom: 5px;
 }
 
